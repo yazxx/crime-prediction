@@ -16,3 +16,18 @@ This project focuses on analyzing and predicting crime patterns using publicly a
 
 ##  Project Structure
 
+
+
+
+## Key Features
+
+- Exploratory Data Analysis (EDA) to uncover hidden patterns
+- Time and location-based crime analysis
+- Initial implementation of machine learning for basic crime prediction
+
+## Getting Started
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/yourusername/crime-prediction.git
